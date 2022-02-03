@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdelreal2
 - 👀 I’m interested in Minecraft.
-- 🌱 I’m currently learning GoLang, C99, and other programming languages.
+- 🌱 I’m currently learning GoLang, Javascript, C99, and other programming languages.
 
 <!---
 jdelreal2/jdelreal2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
